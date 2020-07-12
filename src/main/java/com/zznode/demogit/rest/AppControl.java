@@ -30,5 +30,12 @@ import org.springframework.web.bind.annotation.RestController;
 			return map;
 		}
 
+		
+		@RequestMapping(value = "/getAge")
+		public HashMap<String, Object> getAge() {
+			HashMap<String, Object> map = new HashMap<String, Object>();
+			map.put("Born", "19930118");
+			return map;
+		}
 
 	}
