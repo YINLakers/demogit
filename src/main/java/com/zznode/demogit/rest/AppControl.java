@@ -52,12 +52,15 @@ public class AppControl {
 		
 		System.out.println("测试git001");
 		System.out.println("测试git002");
+
+		System.out.println("用户0");
+
 		System.out.println("dev增加git003");
 		
 		System.out.println("dev增加git004");
-		
-		
+
 		System.out.println("用户1");
+
 	}
 
 }
