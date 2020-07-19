@@ -49,6 +49,7 @@ public class AppControl {
 		Date date = new Date();
 
 		System.out.println(Integer.parseInt(df.format(date)) - 1993);
+		System.out.println("测试git");
 	}
 
 }
