@@ -51,8 +51,6 @@ public class AppControl {
 		System.out.println(Integer.parseInt(df.format(date)) - 1993);
 		System.out.println("测试git");
 		System.out.println("测试git001");
-		System.out.println("测试git002");
-		System.out.println("dev增加git003");
 	}
 
 }
