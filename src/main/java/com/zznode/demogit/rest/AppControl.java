@@ -52,6 +52,8 @@ public class AppControl {
 		
 		System.out.println("userOne test 001 ");
 
+		System.out.println("用户1");
+
 	}
 
 }
